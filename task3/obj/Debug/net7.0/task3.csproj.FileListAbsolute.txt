@@ -1,0 +1,14 @@
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\bin\Debug\net7.0\task3.exe
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\bin\Debug\net7.0\task3.deps.json
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\bin\Debug\net7.0\task3.dll
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\bin\Debug\net7.0\task3.pdb
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.dll
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\refint\task3.dll
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.pdb
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+C:\Users\79818\Desktop\C#\lesson1\CS_lesson1\task3\obj\Debug\net7.0\ref\task3.dll
