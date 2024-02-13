@@ -24,3 +24,11 @@ Console.WriteLine(quotient);
 double quotient1 = d1 / i2;
 Console.WriteLine(quotient1);
 // بينما هنا تمت القسمة بأرقام عشرية ان نوع القسمة دابل
+
+
+double a = 4.3;
+int b = 5;
+int c = 2;
+double d = 8.5;
+double sum4 = (a * b) / (c + d);
+Console.WriteLine(sum4);
