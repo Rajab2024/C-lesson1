@@ -16,3 +16,11 @@ double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+int quotient = i1 / i2;
+Console.WriteLine(quotient);
+// ناتج القسمة اخذت رقم الصفر ولم تأخذ الأرقام العشرية لان نوع القسمة هو انتيجار 
+
+double quotient1 = d1 / i2;
+Console.WriteLine(quotient1);
+// بينما هنا تمت القسمة بأرقام عشرية ان نوع القسمة دابل
